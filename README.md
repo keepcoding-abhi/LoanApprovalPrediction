@@ -4,6 +4,8 @@ This project uses different supervised machine learning models to classify loan 
 
 The dataset is stored in Loan_Default.csv file. This dataset was taken from https://www.kaggle.com/code/aekanshg96/loan-defaulter-ak-every-classification-ever/data
 
+The csv file in the "Dataset" folder has been truncated to have size smaller than 25MB. The notebook "SML_Project.ipynb" was executed on original dataset which can be found on the aforementioned link.
+
 In order to run the project the csv file must be present inside a folder named "Dataset" in the same folder as the SML_Project.ipynb notebook.
 
 Steps to run the project:
